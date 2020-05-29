@@ -1,3 +1,13 @@
+# How to fetch API data from Reactjs
+
+Youtube Link: https://www.youtube.com/watch?v=hzLDsxPGctY
+
+# JSONPlaceholder
+Fake Online REST API for Testing and Prototyping
+
+https://jsonplaceholder.typicode.com/users
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
